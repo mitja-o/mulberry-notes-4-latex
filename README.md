@@ -19,7 +19,7 @@ It uses inline comments, simple style, and visual clues in margins.
 ### Manual approach
 
 1. Copy the `mulberry.sty` into your LaTeX project's root.
-2. Important the package and use it in your LaTeX code:
+2. Import the package and use it in your LaTeX code:
 
     ```tex
     % Enable the marks
