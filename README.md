@@ -6,7 +6,6 @@
 This package allows a specific way of note-taking in LaTeX documents.   
 It uses inline comments, simple style, and visual clues in margins. 
 
-> [!TIP]
 > ![demo](./demo.png)
 
 
