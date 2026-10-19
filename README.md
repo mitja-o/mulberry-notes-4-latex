@@ -26,29 +26,7 @@ It uses inline comments, simple style, and visual clues in margins.
     
     % This will hide all the marks, useful for final manuscript views
     % \usepackage[hidden]{mulberry-notes}
-    
-    \begin{document}
-    
-    Hello there,
-    
-    Here is the \texttt{mulberry} demo.
-    
-    \todoM{Make a better introduction} 
-    
-    Here are some features:
-    
-    \noteM{This is just a note.}
-    
-    \ideaM{Support other note-styles later.}
-    
-    \end{document}
     ```
-
-    <details><summary><i>Rendered view:</i></summary>
-    
-    > ![demo](./demo.png)
-
-    </details>
 
 ## Extending
 
